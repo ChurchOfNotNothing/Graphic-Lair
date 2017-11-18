@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Setting-Up
+## Something Simple ::: Detailed Designing For the Future which is now
 
-You can use the [editor on GitHub](https://github.com/ChurchOfNotNothing/Setting-Up/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is my first time and I'm a super noob so forgive me if this isn't done properly.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Goal
 
-### Markdown
+- Complete a vector design with heavy styling that will scale to any size.
+- Make something that looks new
+- Start with something very complex to show a robust use of skills working in tandem
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![House Orgami](https://i.lensdump.com/i/JqIuD.jpg)
 
-```markdown
-Syntax highlighted code block
+I have included my source file so that it can be show the details of each layer and how they are grouped.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChurchOfNotNothing/Setting-Up/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Home Page](http://JonathanMcMillan.cloud/)
